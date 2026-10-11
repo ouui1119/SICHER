@@ -1,5 +1,5 @@
 # SICHER
 
-Anonymous research project page. Open `index.html` to preview the page.
+[Published anonymous project page](https://ouui1119.github.io/SICHER/).
 
-The static files are ready for GitHub Pages. Figures are stored in `assets/`.
+Open `index.html` to preview locally. Figures are stored in `assets/`.
